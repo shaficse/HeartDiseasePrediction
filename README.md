@@ -25,3 +25,19 @@ project/
 | 
 |-- requirements.txt
 |-- app.py
+```
+
+### Dependency
+- Install Dependencies
+  ```
+  pip install -r requirements.txt
+  ```
+### Run the Application
+```
+python3 app.py
+```
+Open the web application at http://127.0.0.1:5000/ in your browser.
+
+### Contributors
+[Md Shafi Ud Doula]
+[Tanzil Al Sabah]
