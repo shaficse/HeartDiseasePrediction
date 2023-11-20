@@ -1,4 +1,4 @@
-# HeartDiseasePrediction
+# Heart Disease Prediction
 
 ## Overview
 
