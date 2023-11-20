@@ -38,7 +38,14 @@ python3 app.py
 ```
 Open the web application at http://127.0.0.1:5000/ in your browser.
 
+![](snapshots/before-predict-operation.png)
+
+![](snapshots/screenshots/no-heart-disease-operation.png)
+
+![](snapshots/screenshots/screenshots/have-heart-disease.png)
+
+
 ### Contributors
 - [Md Shafi Ud Doula](https://github.com/shaficse)
-- [Tanzil Al Sabah](https://github.com/tanziltonmoy)https://github.com/tanziltonmoy)
+- [Tanzil Al Sabah](https://github.com/tanziltonmoy)
 
