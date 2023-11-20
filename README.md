@@ -1,5 +1,4 @@
 # HeartDiseasePrediction
-# Heart Disease Prediction Project
 
 ## Overview
 
