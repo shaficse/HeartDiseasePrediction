@@ -4,7 +4,7 @@
 
 This project implements a heart disease prediction model using machine learning. It includes a Flask web application for user input and real-time predictions.
 
-## Features
+## Technical Details
 
 - **Machine Learning Model:**
   - Utilizes scikit-learn for heart disease prediction.
