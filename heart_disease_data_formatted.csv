@@ -1,0 +1,304 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,num
+63,Male,atypical angina,145,233,True,st-t wave abnormality,150,False,2.3,,0.0,fixed defect,0
+67,Male,,160,286,False,st-t wave abnormality,108,True,1.5,downsloping,3.0,normal,2
+67,Male,,120,229,False,st-t wave abnormality,129,True,2.6,downsloping,2.0,reversable defect,1
+37,Male,asymptomatic,130,250,False,normal,187,False,3.5,,0.0,normal,0
+41,Female,non-anginal,130,204,False,st-t wave abnormality,172,False,1.4,flat,0.0,normal,0
+56,Male,non-anginal,120,236,False,normal,178,False,0.8,flat,0.0,normal,0
+62,Female,,140,268,False,st-t wave abnormality,160,False,3.6,,2.0,normal,3
+57,Female,,120,354,False,normal,163,True,0.6,flat,0.0,normal,0
+63,Male,,130,254,False,st-t wave abnormality,147,False,1.4,downsloping,1.0,reversable defect,2
+53,Male,,140,203,True,st-t wave abnormality,155,True,3.1,,0.0,reversable defect,1
+57,Male,,140,192,False,normal,148,False,0.4,downsloping,0.0,fixed defect,0
+56,Female,non-anginal,140,294,False,st-t wave abnormality,153,False,1.3,downsloping,0.0,normal,0
+56,Male,asymptomatic,130,256,True,st-t wave abnormality,142,True,0.6,downsloping,1.0,fixed defect,2
+44,Male,non-anginal,120,263,False,normal,173,False,0.0,flat,0.0,reversable defect,0
+52,Male,asymptomatic,172,199,True,normal,162,False,0.5,flat,0.0,reversable defect,0
+57,Male,asymptomatic,150,168,False,normal,174,False,1.6,flat,0.0,normal,0
+48,Male,non-anginal,110,229,False,normal,168,False,1.0,,0.0,reversable defect,1
+54,Male,,140,239,False,normal,160,False,1.2,flat,0.0,normal,0
+48,Female,asymptomatic,130,275,False,normal,139,False,0.2,flat,0.0,normal,0
+49,Male,non-anginal,130,266,False,normal,171,False,0.6,flat,0.0,normal,0
+64,Male,atypical angina,110,211,False,st-t wave abnormality,144,True,1.8,downsloping,0.0,normal,0
+58,Female,atypical angina,150,283,True,st-t wave abnormality,162,False,1.0,flat,0.0,normal,0
+58,Male,non-anginal,120,284,False,st-t wave abnormality,160,False,1.8,downsloping,0.0,normal,1
+58,Male,asymptomatic,132,224,False,st-t wave abnormality,173,False,3.2,flat,2.0,reversable defect,3
+60,Male,,130,206,False,st-t wave abnormality,132,True,2.4,downsloping,2.0,reversable defect,4
+50,Female,asymptomatic,120,219,False,normal,158,False,1.6,downsloping,0.0,normal,0
+58,Female,asymptomatic,120,340,False,normal,172,False,0.0,flat,0.0,normal,0
+66,Female,atypical angina,150,226,False,normal,114,False,2.6,,0.0,normal,0
+43,Male,,150,247,False,normal,171,False,1.5,flat,0.0,normal,0
+40,Male,,110,167,False,st-t wave abnormality,114,True,2.0,downsloping,0.0,reversable defect,3
+69,Female,atypical angina,140,239,False,normal,151,False,1.8,flat,2.0,normal,0
+60,Male,,117,230,True,normal,160,True,1.4,flat,2.0,reversable defect,2
+64,Male,asymptomatic,140,335,False,normal,158,False,0.0,flat,0.0,normal,1
+59,Male,,135,234,False,normal,161,False,0.5,downsloping,0.0,reversable defect,0
+44,Male,asymptomatic,130,233,False,normal,179,True,0.4,flat,0.0,normal,0
+42,Male,,140,226,False,normal,178,False,0.0,flat,0.0,normal,0
+43,Male,,120,177,False,st-t wave abnormality,120,True,2.5,downsloping,0.0,reversable defect,3
+57,Male,,150,276,False,st-t wave abnormality,112,True,0.6,downsloping,1.0,fixed defect,1
+55,Male,,132,353,False,normal,132,True,1.2,downsloping,1.0,reversable defect,3
+61,Male,asymptomatic,150,243,True,normal,137,True,1.0,downsloping,0.0,normal,0
+65,Female,,150,225,False,st-t wave abnormality,114,False,1.0,downsloping,3.0,reversable defect,4
+40,Male,atypical angina,140,199,False,normal,178,True,1.4,flat,0.0,reversable defect,0
+71,Female,non-anginal,160,302,False,normal,162,False,0.4,flat,2.0,normal,0
+59,Male,asymptomatic,150,212,True,normal,157,False,1.6,flat,0.0,normal,0
+61,Female,,130,330,False,st-t wave abnormality,169,False,0.0,flat,0.0,normal,1
+58,Male,asymptomatic,112,230,False,st-t wave abnormality,165,False,2.5,downsloping,1.0,reversable defect,4
+51,Male,asymptomatic,110,175,False,normal,123,False,0.6,flat,0.0,normal,0
+50,Male,,150,243,False,st-t wave abnormality,128,False,2.6,downsloping,0.0,reversable defect,4
+65,Female,asymptomatic,140,417,True,st-t wave abnormality,157,False,0.8,flat,1.0,normal,0
+53,Male,asymptomatic,130,197,True,st-t wave abnormality,152,False,1.2,,0.0,normal,0
+41,Female,non-anginal,105,198,False,normal,168,False,0.0,flat,1.0,normal,0
+65,Male,,120,177,False,normal,140,False,0.4,flat,0.0,reversable defect,0
+44,Male,,112,290,False,st-t wave abnormality,153,False,0.0,flat,1.0,normal,2
+44,Male,non-anginal,130,219,False,st-t wave abnormality,188,False,0.0,flat,0.0,normal,0
+60,Male,,130,253,False,normal,144,True,1.4,flat,1.0,reversable defect,1
+54,Male,,124,266,False,st-t wave abnormality,109,True,2.2,downsloping,1.0,reversable defect,1
+50,Male,asymptomatic,140,233,False,normal,163,False,0.6,downsloping,1.0,reversable defect,1
+41,Male,,110,172,False,st-t wave abnormality,158,False,0.0,flat,0.0,reversable defect,1
+54,Male,asymptomatic,125,273,False,st-t wave abnormality,152,False,0.5,,1.0,normal,0
+51,Male,atypical angina,125,213,False,st-t wave abnormality,125,True,1.4,flat,1.0,normal,0
+51,Female,,130,305,False,normal,142,True,1.2,downsloping,0.0,reversable defect,2
+46,Female,asymptomatic,142,177,False,st-t wave abnormality,160,True,1.4,,0.0,normal,0
+58,Male,,128,216,False,st-t wave abnormality,131,True,2.2,downsloping,3.0,reversable defect,1
+54,Female,asymptomatic,135,304,True,normal,170,False,0.0,flat,0.0,normal,0
+54,Male,,120,188,False,normal,113,False,1.4,downsloping,1.0,reversable defect,2
+60,Male,,145,282,False,st-t wave abnormality,142,True,2.8,downsloping,2.0,reversable defect,2
+60,Male,asymptomatic,140,185,False,st-t wave abnormality,155,False,3.0,downsloping,0.0,normal,1
+54,Male,asymptomatic,150,232,False,st-t wave abnormality,165,False,1.6,flat,0.0,reversable defect,0
+59,Male,,170,326,False,st-t wave abnormality,140,True,3.4,,0.0,reversable defect,2
+46,Male,asymptomatic,150,231,False,normal,147,False,3.6,downsloping,0.0,normal,1
+65,Female,asymptomatic,155,269,False,normal,148,False,0.8,flat,0.0,normal,0
+67,Male,,125,254,True,normal,163,False,0.2,downsloping,2.0,reversable defect,3
+62,Male,,120,267,False,normal,99,True,1.8,downsloping,2.0,reversable defect,1
+65,Male,,110,248,False,st-t wave abnormality,158,False,0.6,flat,2.0,fixed defect,1
+44,Male,,110,197,False,st-t wave abnormality,177,False,0.0,flat,1.0,normal,1
+65,Female,asymptomatic,160,360,False,st-t wave abnormality,151,False,0.8,flat,0.0,normal,0
+60,Male,,125,258,False,st-t wave abnormality,141,True,2.8,downsloping,1.0,reversable defect,1
+51,Female,asymptomatic,140,308,False,st-t wave abnormality,142,False,1.5,flat,1.0,normal,0
+48,Male,non-anginal,130,245,False,st-t wave abnormality,180,False,0.2,downsloping,0.0,normal,0
+58,Male,,150,270,False,st-t wave abnormality,111,True,0.8,flat,0.0,reversable defect,3
+45,Male,,104,208,False,st-t wave abnormality,148,True,3.0,downsloping,0.0,normal,0
+53,Female,,130,264,False,st-t wave abnormality,143,False,0.4,downsloping,0.0,normal,0
+39,Male,asymptomatic,140,321,False,st-t wave abnormality,182,False,0.0,flat,0.0,normal,0
+68,Male,asymptomatic,180,274,True,st-t wave abnormality,150,True,1.6,downsloping,0.0,reversable defect,3
+52,Male,non-anginal,120,325,False,normal,172,False,0.2,flat,0.0,normal,0
+44,Male,asymptomatic,140,235,False,st-t wave abnormality,180,False,0.0,flat,0.0,normal,0
+47,Male,asymptomatic,138,257,False,st-t wave abnormality,156,False,0.0,flat,0.0,normal,0
+53,Female,asymptomatic,128,216,False,st-t wave abnormality,115,False,0.0,flat,0.0,,0
+53,Female,,138,234,False,st-t wave abnormality,160,False,0.0,flat,0.0,normal,0
+51,Female,asymptomatic,130,256,False,st-t wave abnormality,149,False,0.5,flat,0.0,normal,0
+66,Male,,120,302,False,st-t wave abnormality,151,False,0.4,downsloping,0.0,normal,0
+62,Female,,160,164,False,st-t wave abnormality,145,False,6.2,,3.0,reversable defect,3
+62,Male,asymptomatic,130,231,False,normal,146,False,1.8,downsloping,3.0,reversable defect,0
+44,Female,asymptomatic,108,141,False,normal,175,False,0.6,downsloping,0.0,normal,0
+63,Female,asymptomatic,135,252,False,st-t wave abnormality,172,False,0.0,flat,0.0,normal,0
+52,Male,,128,255,False,normal,161,True,0.0,flat,1.0,reversable defect,1
+59,Male,,110,239,False,st-t wave abnormality,142,True,1.2,downsloping,1.0,reversable defect,2
+60,Female,,150,258,False,st-t wave abnormality,157,False,2.6,downsloping,2.0,reversable defect,3
+52,Male,non-anginal,134,201,False,normal,158,False,0.8,flat,1.0,normal,0
+48,Male,,122,222,False,st-t wave abnormality,186,False,0.0,flat,0.0,normal,0
+45,Male,,115,260,False,st-t wave abnormality,185,False,0.0,flat,0.0,normal,0
+34,Male,atypical angina,118,182,False,st-t wave abnormality,174,False,0.0,flat,0.0,normal,0
+57,Female,,128,303,False,st-t wave abnormality,159,False,0.0,flat,1.0,normal,0
+71,Female,asymptomatic,110,265,True,st-t wave abnormality,130,False,0.0,flat,1.0,normal,0
+49,Male,asymptomatic,120,188,False,normal,139,False,2.0,downsloping,3.0,reversable defect,3
+54,Male,non-anginal,108,309,False,normal,156,False,0.0,flat,0.0,reversable defect,0
+59,Male,,140,177,False,normal,162,True,0.0,flat,1.0,reversable defect,2
+57,Male,asymptomatic,128,229,False,st-t wave abnormality,150,False,0.4,downsloping,1.0,reversable defect,1
+61,Male,,120,260,False,normal,140,True,3.6,downsloping,1.0,reversable defect,2
+39,Male,,118,219,False,normal,140,False,1.2,downsloping,0.0,reversable defect,3
+61,Female,,145,307,False,st-t wave abnormality,146,True,1.0,downsloping,0.0,reversable defect,1
+56,Male,,125,249,True,st-t wave abnormality,144,True,1.2,downsloping,1.0,normal,1
+52,Male,atypical angina,118,186,False,st-t wave abnormality,190,False,0.0,downsloping,0.0,fixed defect,0
+43,Female,,132,341,True,st-t wave abnormality,136,True,3.0,downsloping,0.0,reversable defect,2
+62,Female,asymptomatic,130,263,False,normal,97,False,1.2,downsloping,1.0,reversable defect,2
+41,Male,non-anginal,135,203,False,normal,132,False,0.0,downsloping,0.0,fixed defect,0
+58,Male,asymptomatic,140,211,True,st-t wave abnormality,165,False,0.0,flat,0.0,normal,0
+35,Female,,138,183,False,normal,182,False,1.4,flat,0.0,normal,0
+63,Male,,130,330,True,st-t wave abnormality,132,True,1.8,flat,3.0,reversable defect,3
+65,Male,,135,254,False,st-t wave abnormality,127,False,2.8,downsloping,1.0,reversable defect,2
+48,Male,,130,256,True,st-t wave abnormality,150,True,0.0,flat,2.0,reversable defect,3
+63,Female,,150,407,False,st-t wave abnormality,154,False,4.0,downsloping,3.0,reversable defect,4
+51,Male,asymptomatic,100,222,False,normal,143,True,1.2,downsloping,0.0,normal,0
+55,Male,,140,217,False,normal,111,True,5.6,,0.0,reversable defect,3
+65,Male,atypical angina,138,282,True,st-t wave abnormality,174,False,1.4,downsloping,1.0,normal,1
+45,Female,non-anginal,130,234,False,st-t wave abnormality,175,False,0.6,downsloping,0.0,normal,0
+56,Female,,200,288,True,st-t wave abnormality,133,True,4.0,,2.0,reversable defect,3
+54,Male,,110,239,False,normal,126,True,2.8,downsloping,1.0,reversable defect,3
+44,Male,non-anginal,120,220,False,normal,170,False,0.0,flat,0.0,normal,0
+62,Female,,124,209,False,normal,163,False,0.0,flat,0.0,normal,0
+54,Male,asymptomatic,120,258,False,st-t wave abnormality,147,False,0.4,downsloping,0.0,reversable defect,0
+51,Male,asymptomatic,94,227,False,normal,154,True,0.0,flat,1.0,reversable defect,0
+29,Male,non-anginal,130,204,False,st-t wave abnormality,202,False,0.0,flat,0.0,normal,0
+51,Male,,140,261,False,st-t wave abnormality,186,True,0.0,flat,0.0,normal,0
+43,Female,asymptomatic,122,213,False,normal,165,False,0.2,downsloping,0.0,normal,0
+55,Female,non-anginal,135,250,False,st-t wave abnormality,161,False,1.4,downsloping,0.0,normal,0
+70,Male,,145,174,False,normal,125,True,2.6,,0.0,reversable defect,4
+62,Male,non-anginal,120,281,False,st-t wave abnormality,103,False,1.4,downsloping,1.0,reversable defect,3
+35,Male,,120,198,False,normal,130,True,1.6,downsloping,0.0,reversable defect,1
+51,Male,asymptomatic,125,245,True,st-t wave abnormality,166,False,2.4,downsloping,0.0,normal,0
+59,Male,non-anginal,140,221,False,normal,164,True,0.0,flat,0.0,normal,0
+59,Male,atypical angina,170,288,False,st-t wave abnormality,159,False,0.2,downsloping,0.0,reversable defect,1
+52,Male,non-anginal,128,205,True,normal,184,False,0.0,flat,0.0,normal,0
+64,Male,asymptomatic,125,309,False,normal,131,True,1.8,downsloping,0.0,reversable defect,1
+58,Male,asymptomatic,105,240,False,st-t wave abnormality,154,True,0.6,downsloping,0.0,reversable defect,0
+47,Male,asymptomatic,108,243,False,normal,152,False,0.0,flat,0.0,normal,1
+57,Male,,165,289,True,st-t wave abnormality,124,False,1.0,downsloping,3.0,reversable defect,4
+41,Male,asymptomatic,112,250,False,normal,179,False,0.0,flat,0.0,normal,0
+45,Male,non-anginal,128,308,False,st-t wave abnormality,170,False,0.0,flat,0.0,normal,0
+60,Female,asymptomatic,102,318,False,normal,160,False,0.0,flat,1.0,normal,0
+52,Male,atypical angina,152,298,True,normal,178,False,1.2,downsloping,0.0,reversable defect,0
+42,Female,,102,265,False,st-t wave abnormality,122,False,0.6,downsloping,0.0,normal,0
+67,Female,asymptomatic,115,564,False,st-t wave abnormality,160,False,1.6,downsloping,0.0,reversable defect,0
+55,Male,,160,289,False,st-t wave abnormality,145,True,0.8,downsloping,1.0,reversable defect,4
+64,Male,,120,246,False,st-t wave abnormality,96,True,2.2,,1.0,normal,3
+70,Male,,130,322,False,st-t wave abnormality,109,False,2.4,downsloping,3.0,normal,1
+51,Male,,140,299,False,normal,173,True,1.6,flat,0.0,reversable defect,1
+58,Male,,125,300,False,st-t wave abnormality,171,False,0.0,flat,2.0,reversable defect,1
+60,Male,,140,293,False,st-t wave abnormality,170,False,1.2,downsloping,2.0,reversable defect,2
+68,Male,asymptomatic,118,277,False,normal,151,False,1.0,flat,1.0,reversable defect,0
+46,Male,non-anginal,101,197,True,normal,156,False,0.0,flat,0.0,reversable defect,0
+77,Male,,125,304,False,st-t wave abnormality,162,True,0.0,flat,3.0,normal,4
+54,Female,asymptomatic,110,214,False,normal,158,False,1.6,downsloping,0.0,normal,0
+58,Female,,100,248,False,st-t wave abnormality,122,False,1.0,downsloping,0.0,normal,0
+48,Male,asymptomatic,124,255,True,normal,175,False,0.0,flat,2.0,normal,0
+57,Male,,132,207,False,normal,168,True,0.0,flat,0.0,reversable defect,0
+52,Male,asymptomatic,138,223,False,normal,169,False,0.0,flat,,normal,0
+54,Female,non-anginal,132,288,True,st-t wave abnormality,159,True,0.0,flat,1.0,normal,0
+35,Male,,126,282,False,st-t wave abnormality,156,True,0.0,flat,0.0,reversable defect,1
+45,Female,non-anginal,112,160,False,normal,138,False,0.0,downsloping,0.0,normal,0
+70,Male,asymptomatic,160,269,False,normal,112,True,2.9,downsloping,1.0,reversable defect,3
+53,Male,,142,226,False,st-t wave abnormality,111,True,0.0,flat,0.0,reversable defect,0
+59,Female,,174,249,False,normal,143,True,0.0,downsloping,0.0,normal,1
+62,Female,,140,394,False,st-t wave abnormality,157,False,1.2,downsloping,0.0,normal,0
+64,Male,,145,212,False,st-t wave abnormality,132,False,2.0,downsloping,2.0,fixed defect,4
+57,Male,,152,274,False,normal,88,True,1.2,downsloping,1.0,reversable defect,1
+52,Male,,108,233,True,normal,147,False,0.1,flat,3.0,reversable defect,0
+56,Male,,132,184,False,st-t wave abnormality,105,True,2.1,downsloping,1.0,fixed defect,1
+43,Male,asymptomatic,130,315,False,normal,162,False,1.9,flat,1.0,normal,0
+53,Male,asymptomatic,130,246,True,st-t wave abnormality,173,False,0.0,flat,3.0,normal,0
+48,Male,,124,274,False,st-t wave abnormality,166,False,0.5,downsloping,0.0,reversable defect,3
+56,Female,,134,409,False,st-t wave abnormality,150,True,1.9,downsloping,2.0,reversable defect,2
+42,Male,atypical angina,148,244,False,st-t wave abnormality,178,False,0.8,flat,2.0,normal,0
+59,Male,atypical angina,178,270,False,st-t wave abnormality,145,False,4.2,,0.0,reversable defect,0
+60,Female,,158,305,False,st-t wave abnormality,161,False,0.0,flat,0.0,normal,1
+63,Female,non-anginal,140,195,False,normal,179,False,0.0,flat,2.0,normal,0
+42,Male,asymptomatic,120,240,True,normal,194,False,0.8,,0.0,reversable defect,0
+66,Male,non-anginal,160,246,False,normal,120,True,0.0,downsloping,3.0,fixed defect,2
+54,Male,non-anginal,192,283,False,st-t wave abnormality,195,False,0.0,flat,1.0,reversable defect,1
+69,Male,asymptomatic,140,254,False,st-t wave abnormality,146,False,2.0,downsloping,3.0,reversable defect,2
+50,Male,asymptomatic,129,196,False,normal,163,False,0.0,flat,0.0,normal,0
+51,Male,,140,298,False,normal,122,True,4.2,downsloping,3.0,reversable defect,3
+43,Male,,132,247,True,st-t wave abnormality,143,True,0.1,downsloping,,reversable defect,1
+62,Female,,138,294,True,normal,106,False,1.9,downsloping,3.0,normal,2
+68,Female,asymptomatic,120,211,False,st-t wave abnormality,115,False,1.5,downsloping,0.0,normal,0
+67,Male,,100,299,False,st-t wave abnormality,125,True,0.9,downsloping,2.0,normal,3
+69,Male,atypical angina,160,234,True,st-t wave abnormality,131,False,0.1,downsloping,1.0,normal,0
+45,Female,,138,236,False,st-t wave abnormality,152,True,0.2,downsloping,0.0,normal,0
+50,Female,non-anginal,120,244,False,normal,162,False,1.1,flat,0.0,normal,0
+59,Male,atypical angina,160,273,False,st-t wave abnormality,125,False,0.0,flat,0.0,normal,1
+50,Female,,110,254,False,st-t wave abnormality,159,False,0.0,flat,0.0,normal,0
+64,Female,,180,325,False,normal,154,True,0.0,flat,0.0,normal,0
+57,Male,asymptomatic,150,126,True,normal,173,False,0.2,flat,1.0,reversable defect,0
+64,Female,asymptomatic,140,313,False,normal,133,False,0.2,flat,0.0,reversable defect,0
+43,Male,,110,211,False,normal,161,False,0.0,flat,0.0,reversable defect,0
+45,Male,,142,309,False,st-t wave abnormality,147,True,0.0,downsloping,3.0,reversable defect,3
+58,Male,,128,259,False,st-t wave abnormality,130,True,3.0,downsloping,2.0,reversable defect,3
+50,Male,,144,200,False,st-t wave abnormality,126,True,0.9,downsloping,0.0,reversable defect,3
+55,Male,non-anginal,130,262,False,normal,155,False,0.0,flat,0.0,normal,0
+62,Female,,150,244,False,normal,154,True,1.4,downsloping,0.0,normal,1
+37,Female,asymptomatic,120,215,False,normal,170,False,0.0,flat,0.0,normal,0
+38,Male,atypical angina,120,231,False,normal,182,True,3.8,downsloping,0.0,reversable defect,4
+41,Male,asymptomatic,130,214,False,st-t wave abnormality,168,False,2.0,downsloping,0.0,normal,0
+66,Female,,178,228,True,normal,165,True,1.0,downsloping,2.0,reversable defect,3
+52,Male,,112,230,False,normal,160,False,0.0,flat,1.0,normal,1
+56,Male,atypical angina,120,193,False,st-t wave abnormality,162,False,1.9,downsloping,0.0,reversable defect,0
+46,Female,non-anginal,105,204,False,normal,172,False,0.0,flat,0.0,normal,0
+46,Female,,138,243,False,st-t wave abnormality,152,True,0.0,downsloping,0.0,normal,0
+64,Female,,130,303,False,normal,122,False,2.0,downsloping,2.0,normal,0
+59,Male,,138,271,False,st-t wave abnormality,182,False,0.0,flat,0.0,normal,0
+41,Female,asymptomatic,112,268,False,st-t wave abnormality,172,True,0.0,flat,0.0,normal,0
+54,Female,asymptomatic,108,267,False,st-t wave abnormality,167,False,0.0,flat,0.0,normal,0
+39,Female,asymptomatic,94,199,False,normal,179,False,0.0,flat,0.0,normal,0
+53,Male,,123,282,False,normal,95,True,2.0,downsloping,2.0,reversable defect,3
+63,Female,,108,269,False,normal,169,True,1.8,downsloping,2.0,normal,1
+34,Female,non-anginal,118,210,False,normal,192,False,0.7,flat,0.0,normal,0
+47,Male,,112,204,False,normal,143,False,0.1,flat,0.0,normal,0
+67,Female,asymptomatic,152,277,False,normal,172,False,0.0,flat,1.0,normal,0
+54,Male,,110,206,False,st-t wave abnormality,108,True,0.0,downsloping,1.0,normal,3
+66,Male,,112,212,False,st-t wave abnormality,132,True,0.1,flat,1.0,normal,2
+52,Female,asymptomatic,136,196,False,st-t wave abnormality,169,False,0.1,downsloping,0.0,normal,0
+55,Female,,180,327,False,lv hypertrophy,117,True,3.4,downsloping,0.0,normal,2
+49,Male,asymptomatic,118,149,False,st-t wave abnormality,126,False,0.8,flat,3.0,normal,1
+74,Female,non-anginal,120,269,False,st-t wave abnormality,121,True,0.2,flat,1.0,normal,0
+54,Female,asymptomatic,160,201,False,normal,163,False,0.0,flat,1.0,normal,0
+54,Male,,122,286,False,st-t wave abnormality,116,True,3.2,downsloping,2.0,normal,3
+56,Male,,130,283,True,st-t wave abnormality,103,True,1.6,,0.0,reversable defect,2
+46,Male,,120,249,False,st-t wave abnormality,144,False,0.8,flat,0.0,reversable defect,1
+49,Female,non-anginal,134,271,False,normal,162,False,0.0,downsloping,0.0,normal,0
+42,Male,non-anginal,120,295,False,normal,162,False,0.0,flat,0.0,normal,0
+41,Male,non-anginal,110,235,False,normal,153,False,0.0,flat,0.0,normal,0
+41,Female,non-anginal,126,306,False,normal,163,False,0.0,flat,0.0,normal,0
+49,Female,,130,269,False,normal,163,False,0.0,flat,0.0,normal,0
+61,Male,atypical angina,134,234,False,normal,145,False,2.6,downsloping,2.0,normal,2
+60,Female,asymptomatic,120,178,True,normal,96,False,0.0,flat,0.0,normal,0
+67,Male,,120,237,False,normal,71,False,1.0,downsloping,0.0,normal,2
+58,Male,,100,234,False,normal,156,False,0.1,flat,1.0,reversable defect,2
+47,Male,,110,275,False,st-t wave abnormality,118,True,1.0,downsloping,1.0,normal,1
+52,Male,,125,212,False,normal,168,False,1.0,flat,2.0,reversable defect,3
+62,Male,non-anginal,128,208,True,st-t wave abnormality,140,False,0.0,flat,0.0,normal,0
+57,Male,,110,201,False,normal,126,True,1.5,downsloping,0.0,fixed defect,0
+58,Male,,146,218,False,normal,105,False,2.0,downsloping,1.0,reversable defect,1
+64,Male,,128,263,False,normal,105,True,0.2,downsloping,1.0,reversable defect,0
+51,Female,asymptomatic,120,295,False,st-t wave abnormality,157,False,0.6,flat,0.0,normal,0
+43,Male,,115,303,False,normal,181,False,1.2,downsloping,0.0,normal,0
+42,Female,asymptomatic,120,209,False,normal,173,False,0.0,downsloping,0.0,normal,0
+67,Female,,106,223,False,normal,142,False,0.3,flat,2.0,normal,0
+76,Female,asymptomatic,140,197,False,lv hypertrophy,116,False,1.1,downsloping,0.0,normal,0
+70,Male,non-anginal,156,245,False,st-t wave abnormality,143,False,0.0,flat,0.0,normal,0
+57,Male,non-anginal,124,261,False,normal,141,False,0.3,flat,0.0,reversable defect,1
+44,Female,asymptomatic,118,242,False,normal,149,False,0.3,downsloping,1.0,normal,0
+58,Female,non-anginal,136,319,True,st-t wave abnormality,152,False,0.0,flat,2.0,normal,3
+60,Female,atypical angina,150,240,False,normal,171,False,0.9,flat,0.0,normal,0
+44,Male,asymptomatic,120,226,False,normal,169,False,0.0,flat,0.0,normal,0
+61,Male,,138,166,False,st-t wave abnormality,125,True,3.6,downsloping,1.0,normal,4
+42,Male,,136,315,False,normal,125,True,1.8,downsloping,0.0,fixed defect,2
+52,Male,,128,204,True,normal,156,True,1.0,downsloping,0.0,,2
+59,Male,asymptomatic,126,218,True,normal,134,False,2.2,downsloping,1.0,fixed defect,2
+40,Male,,152,223,False,normal,181,False,0.0,flat,0.0,reversable defect,1
+42,Male,asymptomatic,130,180,False,normal,150,False,0.0,flat,0.0,normal,0
+61,Male,,140,207,False,st-t wave abnormality,138,True,1.9,flat,1.0,reversable defect,1
+66,Male,,160,228,False,st-t wave abnormality,138,False,2.3,flat,0.0,fixed defect,0
+46,Male,,140,311,False,normal,120,True,1.8,downsloping,2.0,reversable defect,2
+71,Female,,112,149,False,normal,125,False,1.6,downsloping,0.0,normal,0
+59,Male,atypical angina,134,204,False,normal,162,False,0.8,flat,2.0,normal,1
+64,Male,atypical angina,170,227,False,st-t wave abnormality,155,False,0.6,downsloping,0.0,reversable defect,0
+66,Female,asymptomatic,146,278,False,st-t wave abnormality,152,False,0.0,downsloping,1.0,normal,0
+39,Female,asymptomatic,138,220,False,normal,152,False,0.0,downsloping,0.0,normal,0
+57,Male,non-anginal,154,232,False,st-t wave abnormality,164,False,0.0,flat,1.0,normal,1
+58,Female,,130,197,False,normal,131,False,0.6,downsloping,0.0,normal,0
+57,Male,,110,335,False,normal,143,True,3.0,downsloping,1.0,reversable defect,2
+47,Male,asymptomatic,130,253,False,normal,179,False,0.0,flat,0.0,normal,0
+55,Female,,128,205,False,lv hypertrophy,130,True,2.0,downsloping,1.0,reversable defect,3
+35,Male,non-anginal,122,192,False,normal,174,False,0.0,flat,0.0,normal,0
+61,Male,,148,203,False,normal,161,False,0.0,flat,1.0,reversable defect,2
+58,Male,,114,318,False,lv hypertrophy,140,False,4.4,,3.0,fixed defect,4
+58,Female,,170,225,True,st-t wave abnormality,146,True,2.8,downsloping,2.0,fixed defect,2
+58,Male,non-anginal,125,220,False,normal,144,False,0.4,downsloping,,reversable defect,0
+56,Male,non-anginal,130,221,False,st-t wave abnormality,163,False,0.0,flat,0.0,reversable defect,0
+56,Male,non-anginal,120,240,False,normal,169,False,0.0,,0.0,normal,0
+67,Male,asymptomatic,152,212,False,st-t wave abnormality,150,False,0.8,downsloping,0.0,reversable defect,1
+55,Female,non-anginal,132,342,False,normal,166,False,1.2,flat,0.0,normal,0
+44,Male,,120,169,False,normal,144,True,2.8,,0.0,fixed defect,2
+63,Male,,140,187,False,st-t wave abnormality,144,True,4.0,flat,2.0,reversable defect,2
+63,Female,,124,197,False,normal,136,True,0.0,downsloping,0.0,normal,1
+41,Male,non-anginal,120,157,False,normal,182,False,0.0,flat,0.0,normal,0
+59,Male,,164,176,True,st-t wave abnormality,90,False,1.0,downsloping,2.0,fixed defect,3
+57,Female,,140,241,False,normal,123,True,0.2,downsloping,0.0,reversable defect,1
+45,Male,atypical angina,110,264,False,normal,132,False,1.2,downsloping,0.0,reversable defect,1
+68,Male,,144,193,True,normal,141,False,3.4,downsloping,2.0,reversable defect,2
+57,Male,,130,131,False,normal,115,True,1.2,downsloping,1.0,reversable defect,3
+57,Female,non-anginal,130,236,False,st-t wave abnormality,174,False,0.0,downsloping,1.0,normal,1
+38,Male,asymptomatic,138,175,False,normal,173,False,0.0,flat,,normal,0
