@@ -37,7 +37,8 @@ project/
 python3 app.py
 ```
 Open the web application at http://127.0.0.1:5000/ in your browser.
-
+### Demo
+We deployed in AWS EC2 Instance.
 ![](screenshots/before-predict-operation.png)
 
 ![](screenshots/no-heart-disease-operation.png)
