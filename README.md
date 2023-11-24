@@ -9,6 +9,9 @@ This project implements a heart disease prediction model using machine learning.
 - **Machine Learning Model:**
   - Utilizes scikit-learn for heart disease prediction.
   - Model trained and saved using the best practices.
+ 
+  To dive more details of the technical stuffs , please check this document [Download PDF](Group-10-HeartDiseasePrediction.pdf){:target="_blank"}
+
 
 - **Web Application:**
   - Built with Flask for a simple and interactive user interface.
